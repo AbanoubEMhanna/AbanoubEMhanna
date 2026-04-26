@@ -30,6 +30,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Web3 & Blockchain
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -41,6 +46,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbanoubEMhanna&show_icons=true&theme=radical" alt="Abanoub's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanoubEMhanna&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbanoubEMhanna&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -77,7 +86,7 @@
 ## 🐍 Snake Eating My Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abanoubEMhanna/abanoubEMhanna/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AbanoubEMhanna/AbanoubEMhanna/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
