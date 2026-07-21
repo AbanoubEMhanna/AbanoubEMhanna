@@ -23,7 +23,7 @@
 ## 🎯 About Me
 
 - 🔭 I'm passionate about building scalable web applications and diving deep into Web3 & blockchain technologies
-- 🤖 Exploring AI integration and building AI-powered features
+- 🤖 Building AI-powered features with LLM APIs, LangChain, and RAG pipelines
 - 💡 Love to solve complex problems and create elegant solutions
 - 🎮 When not coding, I enjoy gaming and exploring new tech trends
 - 📫 Reach me at: **abanoub.e.mhanna@gmail.com**
@@ -42,6 +42,10 @@
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI & ML**
+
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-0F9D58?style=for-the-badge&logoColor=white)
 
 **DevOps & Cloud**
 
