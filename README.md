@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[About](#-about-me) • [Tech Stack](#tech-stack) • [GitHub Stats](#-github-stats) • [Trophies](#-github-trophies) • [Connect](#-connect-with-me) • [Portfolio](#-portfolio) • [Snake](#-snake-eating-my-contributions)
+[About](#-about-me) • [Tech Stack](#tech-stack) • [GitHub Stats](#-github-stats) • [Trophies](#-github-trophies) • [Connect & Portfolio](#-connect-with-me) • [Snake](#-snake-eating-my-contributions)
 
 </div>
 
@@ -58,13 +58,18 @@
 <a id="-github-stats"></a>
 ## 📊 GitHub Stats
 
-<div align="center">
+<table align="center">
+<tr>
+<td>
   <img src="https://github-readme-stats.vercel.app/api?username=AbanoubEMhanna&show_icons=true&theme=radical#gh-dark-mode-only" alt="Abanoub's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=AbanoubEMhanna&show_icons=true&theme=default#gh-light-mode-only" alt="Abanoub's GitHub stats" />
-  <br/>
+</td>
+<td>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanoubEMhanna&layout=compact&theme=radical#gh-dark-mode-only" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanoubEMhanna&layout=compact&theme=default#gh-light-mode-only" alt="Top Languages" />
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -79,7 +84,7 @@
 ---
 
 <a id="-connect-with-me"></a>
-## 🌐 Connect With Me
+## 🌐 Connect With Me & Portfolio
 
 <div align="center">
   <a href="https://twitter.com/20130130essam" target="_blank">
@@ -94,14 +99,6 @@
   <a href="mailto:abanoub.e.mhanna@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
-
----
-
-<a id="-portfolio"></a>
-## 🎨 Portfolio
-
-<div align="center">
   <a href="https://www.abanoubessam.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
