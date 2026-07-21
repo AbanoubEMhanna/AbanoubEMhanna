@@ -60,10 +60,10 @@
 <table align="center">
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=AbanoubEMhanna&show_icons=true&theme=radical" alt="Abanoub's GitHub stats" />
+  <img src="https://github-readme-stats-zeta-five-26.vercel.app/api?username=AbanoubEMhanna&show_icons=true&theme=radical" alt="Abanoub's GitHub stats" />
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanoubEMhanna&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-zeta-five-26.vercel.app/api/top-langs/?username=AbanoubEMhanna&layout=compact&theme=radical" alt="Top Languages" />
 </td>
 </tr>
 </table>
@@ -74,7 +74,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbanoubEMhanna&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-beige-mu.vercel.app/?username=AbanoubEMhanna&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
