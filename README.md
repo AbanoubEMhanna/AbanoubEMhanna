@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Abanoub Essam Mhanna
 
-<h3 align="center">🚀 Full Stack Developer | Web3 Enthusiast | Open Source Contributor</h3>
+<h3 align="center">🚀 Full Stack Developer | AI Engineer | Web3 Enthusiast | Open Source Contributor</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Building+the+future+with+code;Turning+ideas+into+reality;Always+learning+new+things#gh-dark-mode-only" alt="Typing SVG" />
