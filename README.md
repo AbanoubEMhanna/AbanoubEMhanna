@@ -7,8 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Building+the+future+with+code;Turning+ideas+into+reality;Always+learning+new+things#gh-dark-mode-only" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0B7285&center=true&vCenter=true&width=435&lines=Building+the+future+with+code;Turning+ideas+into+reality;Always+learning+new+things#gh-light-mode-only" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=435&lines=Building+the+future+with+code;Turning+ideas+into+reality;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -61,12 +60,10 @@
 <table align="center">
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=AbanoubEMhanna&show_icons=true&theme=radical#gh-dark-mode-only" alt="Abanoub's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AbanoubEMhanna&show_icons=true&theme=default#gh-light-mode-only" alt="Abanoub's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbanoubEMhanna&show_icons=true&theme=radical" alt="Abanoub's GitHub stats" />
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanoubEMhanna&layout=compact&theme=radical#gh-dark-mode-only" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanoubEMhanna&layout=compact&theme=default#gh-light-mode-only" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanoubEMhanna&layout=compact&theme=radical" alt="Top Languages" />
 </td>
 </tr>
 </table>
@@ -77,8 +74,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbanoubEMhanna&theme=radical&no-frame=true&no-bg=true#gh-dark-mode-only" alt="GitHub Trophies" />
-  <img src="https://github-profile-trophy.vercel.app/?username=AbanoubEMhanna&theme=flat&no-frame=true&no-bg=true#gh-light-mode-only" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbanoubEMhanna&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
