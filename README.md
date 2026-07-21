@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Abanoub Essam Mhanna
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt=""> Hi, I'm Abanoub Essam Mhanna
 
 <h3>🚀 Full Stack Developer | AI Engineer | Web3 Enthusiast | Open Source Contributor</h3>
 
